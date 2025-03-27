@@ -17,7 +17,8 @@ This tutorial is built for learners aiming to understand:
 ##  Repository Contents
 
 - `rf_medical_data_analysis.ipynb` – Complete Jupyter Notebook  
-- `heart_failure_clinical_records_dataset.csv` – Dataset   
+- `heart_failure_clinical_records_dataset.csv` – Dataset
+- `Tutorial.pdf` - Tutorial and insights about this analysis
 - `LICENSE` – MIT License  
 - `README.md` – This file  
 
